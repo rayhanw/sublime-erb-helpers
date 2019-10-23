@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<% if $1 %>]]></content>
+  <tabTrigger>if</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>ERB if tag</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[<%= f.input :${1:attribute} %>]]>
+  </content>
+  <tabTrigger>fi</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>Simple form input helper</description>
+</snippet>

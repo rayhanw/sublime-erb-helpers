@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[<%= hidden_field_tag :${1:label}, ${2:value} %>]]>
+  </content>
+  <tabTrigger>hft</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>ERB hidden field</description>
+</snippet>

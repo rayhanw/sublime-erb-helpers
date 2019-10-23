@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[<%= f.submit '${1:text}' %>]]>
+  </content>
+  <tabTrigger>fs</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>Simple form submit tag</description>
+</snippet>

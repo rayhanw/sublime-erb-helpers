@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<%= time_ago_in_words($1) %>]]></content>
+  <tabTrigger>tw</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>ERB Time ago in words</description>
+</snippet>

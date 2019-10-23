@@ -1,0 +1,14 @@
+<snippet>
+  <content>
+    <![CDATA[
+<% if $1 %>
+  $2
+<% else %>
+  $3
+<% end %>
+    ]]>
+  </content>
+  <tabTrigger>ife</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>ERB if-else tag</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+    <![CDATA[
+<% unless ${1:true} %>
+  $0
+<% end %>
+    ]]>
+  </content>
+  <tabTrigger>unless</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>ERB unless tag</description>
+</snippet>
